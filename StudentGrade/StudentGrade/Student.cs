@@ -28,7 +28,7 @@ namespace StudentGrade
 
         public void Display()
         {
-            Console.WriteLine($"{firstName} {lastName} \n");
+            Console.WriteLine($"{firstName} {lastName}, \n");
             gradeProfile.Display();
         }
     }
