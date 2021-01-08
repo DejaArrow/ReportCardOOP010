@@ -1,0 +1,11 @@
+F:\UCP\Level 5\OOP\Assignment 010\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.1\StudentGrade.exe
+F:\UCP\Level 5\OOP\Assignment 010\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.1\StudentGrade.deps.json
+F:\UCP\Level 5\OOP\Assignment 010\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.1\StudentGrade.runtimeconfig.json
+F:\UCP\Level 5\OOP\Assignment 010\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.1\StudentGrade.runtimeconfig.dev.json
+F:\UCP\Level 5\OOP\Assignment 010\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.1\StudentGrade.dll
+F:\UCP\Level 5\OOP\Assignment 010\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.1\StudentGrade.pdb
+F:\UCP\Level 5\OOP\Assignment 010\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.1\StudentGrade.csprojAssemblyReference.cache
+F:\UCP\Level 5\OOP\Assignment 010\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.1\StudentGrade.AssemblyInfoInputs.cache
+F:\UCP\Level 5\OOP\Assignment 010\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.1\StudentGrade.AssemblyInfo.cs
+F:\UCP\Level 5\OOP\Assignment 010\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.1\StudentGrade.dll
+F:\UCP\Level 5\OOP\Assignment 010\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.1\StudentGrade.pdb

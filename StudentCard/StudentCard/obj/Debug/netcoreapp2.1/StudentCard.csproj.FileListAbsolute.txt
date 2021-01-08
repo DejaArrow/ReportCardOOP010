@@ -1,0 +1,3 @@
+F:\UCP\Level 5\OOP\Assignment 010\StudentCard\StudentCard\obj\Debug\netcoreapp2.1\StudentCard.csprojAssemblyReference.cache
+F:\UCP\Level 5\OOP\Assignment 010\StudentCard\StudentCard\obj\Debug\netcoreapp2.1\StudentCard.AssemblyInfoInputs.cache
+F:\UCP\Level 5\OOP\Assignment 010\StudentCard\StudentCard\obj\Debug\netcoreapp2.1\StudentCard.AssemblyInfo.cs

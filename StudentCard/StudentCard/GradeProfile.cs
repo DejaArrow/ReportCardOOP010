@@ -1,21 +1,26 @@
 using System;
+using System.Collections.Generic;
 
 namespace StudentCard
 {
     class GradeProfile
     {
-       public list studentGrade;
+       public List<Grade> studentGrade = new List<Grade> ();
+
        public string assignment;
        public string averageYearlyGrade;
 
-       public void GetStudentGrades();
+       public void GetStudentGrades()
+       {}
 
-       public void GetStudentIDNo(){get; set;};
+       public void GetStudentIDNo()
+        {}
 
-       public void GetModule(){get; set;};
+       public void GetModule()
+       {}
 
-       public string CalculateGradeWeight()
-        {};
+       public string CalculateGradeWeight();
+        
 
        public double CalculateAverageYearlyGrade();
 
